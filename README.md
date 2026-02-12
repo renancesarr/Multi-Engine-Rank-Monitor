@@ -1,2 +1,2 @@
 # Multi-Engine-Rank-Monitor
-Ferramenta para acompanhar a posição de websites por palavra-chave em múltiplos search engines.
+Sistema para monitoramento de ranking de websites por palavra-chave em múltiplos mecanismos de busca, com histórico e análise de variação de posições.
